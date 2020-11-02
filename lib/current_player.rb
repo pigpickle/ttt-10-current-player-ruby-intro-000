@@ -4,6 +4,7 @@ def turn_count(board)
     #do something to each element #{number}
     while number == "X" || number == "O"
       counter += 1
+    end
   end
 end
 
