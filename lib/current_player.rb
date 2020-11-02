@@ -1,7 +1,8 @@
 def turn_count(board)
   counter = 0
-  board.each do |places|
-    #do something to each element #{places}
+  avail = board.length
+  board.each do |number|
+    #do something to each element #{number}
   end
 end
 
